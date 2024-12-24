@@ -1,4 +1,4 @@
-package hackerrank.exercise.maria_e_quadrados;
+package hackerrank.exercise.cubos_perfeitos;
 
 public class Main {
 
