@@ -3,11 +3,10 @@ package hackerrank.exercise.maria_e_quadrados;
 public class Main {
 
     public static void main(String[] args) {
-        int T = 3;
+        int T = 2;
         int[][] cases = {
-                {3, 9},
+                {1, 27},
                 {17, 24},
-                {1,10}
         };
 
         int[] results = new int[T];
